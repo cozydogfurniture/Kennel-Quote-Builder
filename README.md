@@ -1,2 +1,2 @@
 # Kennel-Quote-Builder
-Client took to build their kennel and get a quote 
+Client tool to build their kennel and get a quote 
